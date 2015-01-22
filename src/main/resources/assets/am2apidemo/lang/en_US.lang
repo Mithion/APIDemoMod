@@ -1,0 +1,8 @@
+#items
+item.am2apidemo:forceRing.name=Force Ring
+
+#tooltips
+am2apidemo.tooltip.forceRingCharge=Charge: %s
+
+#spell parts
+am2.spell.explosion=Explosion

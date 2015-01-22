@@ -1,0 +1,16 @@
+[
+{
+  "modid": "am2apidemo",
+  "name": "AM2 API Demo",
+  "description": "A simple demo showing how to use the AM2 API",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mithion"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [""]
+}
+]

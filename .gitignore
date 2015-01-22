@@ -1,0 +1,85 @@
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+
+#eclipse
+/bin
+/.settings
+/.classpath
+
+#idea
+/.idea
+*.iml
+
+#gradle
+/build
+/.gradle
+
+#occupational hazards
+/eclipse/
+/repo/
+/buildSrc
+
+#Patch rejects
+*.rej
+/patches-/
+# FML changelog
+changelog.txt
+
+gradlew
+gradlew.bat
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+CREDITS-fml.txt
+forge-1.7.10-10.13.0.1180-changelog.txt
+LICENSE-fml.txt
